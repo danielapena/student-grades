@@ -8,7 +8,7 @@
 - [done] Anyone can check a student grade by providing the corresponding ID
 - [done] Anyone can request a grade revision for a given student ID, we should emit an event notifying the requested revision. We must keep a record of the student IDs that request the revisions
 - [done] The teacher should be able to get the list of student IDs that requested revisions
-- [in progress] We must implement test to validate the use cases
+- [in progress] We must implement test to validate the contract
 
 ## Data example
 
